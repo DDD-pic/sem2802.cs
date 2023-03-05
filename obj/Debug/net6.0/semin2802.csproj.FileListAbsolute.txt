@@ -1,0 +1,15 @@
+C:\Users\Дом\Desktop\semin2802\obj\Debug\net6.0\semin2802.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\semin2802\obj\Debug\net6.0\semin2802.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\Desktop\semin2802\obj\Debug\net6.0\semin2802.AssemblyInfoInputs.cache
+C:\Users\Дом\Desktop\semin2802\obj\Debug\net6.0\semin2802.AssemblyInfo.cs
+C:\Users\Дом\Desktop\semin2802\obj\Debug\net6.0\semin2802.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\semin2802\bin\Debug\net6.0\semin2802.exe
+C:\Users\Дом\Desktop\semin2802\bin\Debug\net6.0\semin2802.deps.json
+C:\Users\Дом\Desktop\semin2802\bin\Debug\net6.0\semin2802.runtimeconfig.json
+C:\Users\Дом\Desktop\semin2802\bin\Debug\net6.0\semin2802.dll
+C:\Users\Дом\Desktop\semin2802\bin\Debug\net6.0\semin2802.pdb
+C:\Users\Дом\Desktop\semin2802\obj\Debug\net6.0\semin2802.dll
+C:\Users\Дом\Desktop\semin2802\obj\Debug\net6.0\refint\semin2802.dll
+C:\Users\Дом\Desktop\semin2802\obj\Debug\net6.0\semin2802.pdb
+C:\Users\Дом\Desktop\semin2802\obj\Debug\net6.0\semin2802.genruntimeconfig.cache
+C:\Users\Дом\Desktop\semin2802\obj\Debug\net6.0\ref\semin2802.dll
